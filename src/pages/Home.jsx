@@ -44,7 +44,7 @@ export default function Home() {
 
             <Col lg={6}>
               <img
-                src="src/assets/Nurse.png"
+                src="https://i.ibb.co/VpTXB2zm/Nurse.png"
                 className="img-fluid"
               />
             </Col>
